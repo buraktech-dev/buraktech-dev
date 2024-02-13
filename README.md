@@ -16,9 +16,9 @@ I'm a software developer fueled by a zest for crafting engaging, interactive exp
  
 ## 📸 Social Media
 
-- My Instagram is [@buraktech](https://www.instagram.com/buraktech/)
+- You can find me on Instagram via [@buraktech](https://www.instagram.com/buraktech/). There I post educational and motivational programming content!
 - You can also find me on TikTok: [@buraktech_](https://www.tiktok.com/@buraktech_)
 
 ## 📫 Contact
 
-My e-mail is buraktechdev@gmail.com, but you can DM me on [Instagram](https://www.instagram.com/buraktech/) too!
+My e-mail is buraktechdev@gmail.com, but I also reply to DMs on [Instagram](https://www.instagram.com/buraktech/) 😊
