@@ -5,13 +5,13 @@ I'm a software developer fueled by a zest for crafting engaging, interactive exp
  
 ## 📚 Skillset
 
-`Java` `Python` `JavaScript` `TypeScript` `C#` 
-`React` `Angular` `HTML` `CSS`
-`NodeJS` `NestJS` `Express` `Spring` `GraphQL`
-`MySQL` `PostgreSQL` `mongoDB` `sqlite` `Firebase`
-`android` `ionic` `Flutter`
-`JUnit` `Jest` `Mocha`
-`Git` `GitHab` `GitLab` `Bitbucket` 
+`Java` `Python` `JavaScript` `TypeScript` `C#`          
+`React` `Angular` `HTML` `CSS`         
+`NodeJS` `NestJS` `Express` `Spring` `GraphQL`         
+`MySQL` `PostgreSQL` `mongoDB` `sqlite` `Firebase`       
+`android` `ionic` `Flutter`     
+`JUnit` `Jest` `Mocha`        
+`Git` `GitHab` `GitLab` `Bitbucket`         
 
  
 ## 📸 Social Media
